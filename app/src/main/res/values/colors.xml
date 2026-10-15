@@ -1,0 +1,35 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand_blue">#64B5F6</color>
+    <color name="brand_dark_blue">#1976D2</color>
+    <color name="brand_green">#4CAF50</color>
+    <color name="brand_purple">#673AB7</color>
+    <color name="brand_yellow">#FFEB3B</color>
+    <color name="background_gray">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Base Semantic Colors (Light Theme Defaults) -->
+    <color name="colorBackground">@color/background_gray</color>
+    <color name="colorSurface">@color/white</color>
+    <color name="colorSurfaceVariant">#FFFFFF</color>
+    
+    <color name="textPrimary">@color/text_primary</color>
+    <color name="textSecondary">@color/text_secondary</color>
+    <color name="textDisabled">#BDBDBD</color>
+
+    <color name="colorPrimary">@color/brand_blue</color>
+    <color name="colorPrimaryVariant">@color/brand_dark_blue</color>
+    <color name="colorOnPrimary">@color/black</color>
+
+    <color name="colorSecondary">@color/brand_blue</color>
+    <color name="colorSecondaryVariant">@color/brand_dark_blue</color>
+    
+    <color name="success">@color/brand_green</color>
+    <color name="warning">@color/brand_yellow</color>
+    <color name="error">#D32F2F</color>
+    
+    <color name="divider">#E0E0E0</color>
+    <color name="outline">#BDBDBD</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background gradient for Scan Scale Ticket button (unselected) -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#FFF8E1"
+                android:centerColor="#FFECB3"
+                android:endColor="#FFF8E1"
+                android:angle="0"/>
+            <corners android:radius="16dp"/>
+            <stroke
+                android:width="2dp"
+                android:color="#FFD54F"/>
+        </shape>
+    </item>
+</layer-list>

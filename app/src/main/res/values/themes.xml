@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Axleweightcalc" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background_gray</item>
+        <item name="android:colorBackground">@color/background_gray</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowAnimationStyle">@style/WindowNoAnimation</item>
+    </style>
+
+    <style name="Theme.Axleweightcalc" parent="Base.Theme.Axleweightcalc" />
+
+    <style name="WindowNoAnimation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Calculadora de Peso de Ejes</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">Desbloquear Premium</string>
+    <string name="premium_subtitle">(Solo $3.99/mes - eso es solo $0.13/día)</string>
+    <string name="premium_button">Obtener Ahora ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">Seleccionar Origen</string>
+    <string name="scan_ticket_take_photo">Tomar Foto / Cámara</string>
+    <string name="scan_ticket_take_photo_desc">Fotografiar un boleto impreso de la báscula</string>
+    <string name="scan_ticket_gallery">Elegir de la Galería</string>
+    <string name="scan_ticket_gallery_desc">Seleccionar una captura de pantalla del dispositivo</string>
+    <string name="scan_ticket_pdf">Seleccionar PDF / Archivos</string>
+    <string name="scan_ticket_pdf_desc">Abrir un PDF desde correo o gestor de archivos</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Axle</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">Bruto: %,d lbs</string>
+    <string name="label_remaining_weight">Restante: %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">Posición Actual del Orificio</string>
+    <string name="label_current_hole">Orificio Actual</string>
+    <string name="spinner_option_6">Orificios cada 6\" (Estándar)</string>
+    <string name="spinner_option_4">Orificios cada 4\"</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">Calcular y Optimizar</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">Posición Perfecta</string>
+    <string name="rec_subtitle_perfect">Los pesos están balanceados y legales.</string>
+    <string name="rec_title_overweight">¡Sobrepeso!</string>
+    <string name="rec_subtitle_overweight">Actualmente tiene sobrepeso.</string>
+    <string name="rec_title_caution">Precaución</string>
+    <string name="rec_subtitle_caution">Acercándose a los límites legales.</string>
+    <string name="rec_title_hole">Orificio %d</string>
+    <string name="rec_subtitle_move">Mover %1$d orificios %2$s</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">Antes</string>
+    <string name="rec_label_after">Después</string>
+    <string name="rec_manual_hint">Usa + y − para ajustar manualmente</string>
+    <string name="btn_reset_shift">↺ Restablecer (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ 5ª Rueda: Deslizar %d orificios hacia atrás (lejos de cabina)</string>
+    <string name="rec_fifth_wheel_subtitle">Transfiere ~300 lbs/orificio de Steer a Drive</string>
+    <string name="warning_steer_overload_drives">Advertencia: Mover peso de Steer sobrecargará los Drives (> 34,000 lbs). Se requiere redistribuir la carga.</string>
+    <string name="label_hole_spacing">Espaciado de Orificios</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">Idioma</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">GUARDAR</string>
+
+    <string name="lorem_ipsum">La calculadora de peso de ejes te ayuda a optimizar la distribución de tu carga.</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">Aviso Legal</string>
+    <string name="disclaimer_content">Solo como referencia. Los cálculos son estimaciones basadas en valores estándar de peso por orificio. Los pesos reales pueden variar. Esta aplicación no sustituye a una báscula certificada. El conductor asume toda la responsabilidad por el cumplimiento de las regulaciones del DOT y los límites de peso.</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">Se requiere permiso de cámara para escanear boletos impresos.</string>
+    <string name="error_create_image_file">No se pudo crear el archivo de imagen.</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">¿Ahorraste tiempo en la báscula?</string>
+    <string name="rate_banner_subtitle">Deja tu opinión en Google Play</string>
+    <string name="rate_banner_button">Calificar en 1 toque</string>
+    <string name="btn_close">Ocultar</string>
+
+</resources>

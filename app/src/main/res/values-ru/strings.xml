@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Калькулятор Нагрузки на Оси</string>
+    <string name="action_settings">Настройки</string>
+    <string name="first_fragment_label">Первый Фрагмент</string>
+    <string name="second_fragment_label">Второй Фрагмент</string>
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">Открыть Premium</string>
+    <string name="premium_subtitle">(Всего $3.99/мес - это лишь $0.13/день)</string>
+    <string name="premium_button">Получить ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">Выберите Источник</string>
+    <string name="scan_ticket_take_photo">Сделать Фото / Камера</string>
+    <string name="scan_ticket_take_photo_desc">Сфотографировать бумажный талон с весов</string>
+    <string name="scan_ticket_gallery">Выбрать из Галереи</string>
+    <string name="scan_ticket_gallery_desc">Выбрать сохраненный скриншот на устройстве</string>
+    <string name="scan_ticket_pdf">Выбрать PDF / Файлы</string>
+    <string name="scan_ticket_pdf_desc">Открыть PDF из почты или файлового менеджера</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Axle</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">Всего: %,d lbs</string>
+    <string name="label_remaining_weight">Остаток: %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">Текущая Позиция Отверстия</string>
+    <string name="label_current_hole">Текущее Отверстие</string>
+    <string name="spinner_option_6">Отверстия каждые 6\" (Стандарт)</string>
+    <string name="spinner_option_4">Отверстия каждые 4\"</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">Рассчитать и Оптимизировать</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">Идеальная Позиция</string>
+    <string name="rec_subtitle_perfect">Вес сбалансирован и в рамках закона.</string>
+    <string name="rec_title_overweight">Перегруз!</string>
+    <string name="rec_subtitle_overweight">У вас перегруз по осям.</string>
+    <string name="rec_title_caution">Внимание</string>
+    <string name="rec_subtitle_caution">Близко к лимиту.</string>
+    <string name="rec_title_hole">Отверстие %d</string>
+    <string name="rec_subtitle_move">Сдвинуть на %1$d %2$s</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">До</string>
+    <string name="rec_label_after">После</string>
+    <string name="rec_manual_hint">Используйте + и − для ручной настройки</string>
+    <string name="btn_reset_shift">↺ Сброс (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ Седло (5th Wheel): сдвинуть на %d назад (от кабины)</string>
+    <string name="rec_fifth_wheel_subtitle">Переносит ~300 lbs на отверстие со Steer на Drive</string>
+    <string name="warning_steer_overload_drives">Внимание: перенос веса со Steer перегрузит ведущие оси (> 34,000 lbs). Требуется перераспределение груза.</string>
+    <string name="label_hole_spacing">Шаг Отверстий</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">Язык</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">СОХРАНИТЬ</string>
+
+    <string name="lorem_ipsum">Калькулятор нагрузки на оси помогает оптимизировать распределение груза.</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">Отказ от ответственности</string>
+    <string name="disclaimer_content">Только для справки. Расчеты являются приблизительными и основаны на стандартных значениях веса на отверстие. Фактический вес может отличаться. Это приложение не заменяет сертифицированные весы. Водитель несет полную ответственность за соблюдение правил DOT и ограничений по весу.</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">Требуется разрешение на использование камеры для сканирования талонов.</string>
+    <string name="error_create_image_file">Не удалось создать файл изображения.</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">Сэкономил время на весах?</string>
+    <string name="rate_banner_subtitle">Оставь отзыв в Google Play</string>
+    <string name="rate_banner_button">Оценить в 1 клик</string>
+    <string name="btn_close">Скрыть</string>
+
+</resources>

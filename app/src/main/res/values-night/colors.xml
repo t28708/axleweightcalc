@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorSurfaceVariant">#242424</color>
+    
+    <!-- Text Colors -->
+    <color name="textPrimary">#E6E6E6</color>
+    <color name="textSecondary">#A8A8A8</color>
+    <color name="textDisabled">#6F6F6F</color>
+    
+    <!-- Accents -->
+    <color name="colorPrimary">#2BBBAD</color>
+    <color name="colorPrimaryVariant">#239A8E</color>
+    <color name="colorOnPrimary">#0B2E2B</color>
+    
+    <color name="colorSecondary">#4DA3FF</color>
+    <color name="colorSecondaryVariant">#2F7EDB</color>
+    
+    <!-- Status -->
+    <color name="success">#2BBBAD</color>
+    <color name="warning">#FFB74D</color>
+    <color name="error">#FF5C5C</color>
+    
+    <!-- UI Elements -->
+    <color name="divider">#2C2C2C</color>
+    <color name="outline">#323232</color>
+
+    <!-- Mapped Existing Resources (Direct Overrides for Dark Mode) -->
+    
+    <!-- "White" backgrounds become Dark Surface -->
+    <color name="white">#1E1E1E</color>
+    
+    <!-- "Black" text becomes Light Text -->
+    <color name="black">#E6E6E6</color>
+    
+    <!-- Background -->
+    <color name="background_gray">#121212</color>
+    
+    <!-- Brand Colors -->
+    <color name="brand_blue">#4DA3FF</color> 
+    <color name="brand_dark_blue">#2F7EDB</color>
+    
+    <color name="brand_green">#2BBBAD</color>
+    
+    <!-- Text Mappings -->
+    <color name="text_primary">#E6E6E6</color>
+    <color name="text_secondary">#A8A8A8</color>
+
+</resources>

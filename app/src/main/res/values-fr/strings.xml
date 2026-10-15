@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Calculateur de Poids par Essieu</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="first_fragment_label">Premier Fragment</string>
+    <string name="second_fragment_label">Deuxième Fragment</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">Débloquer Premium</string>
+    <string name="premium_subtitle">(Seulement 3,99 $/mois - soit 0,13 $/jour)</string>
+    <string name="premium_button">Obtenir ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">Choisir la Source</string>
+    <string name="scan_ticket_take_photo">Prendre une Photo / Appareil</string>
+    <string name="scan_ticket_take_photo_desc">Photographier un ticket papier de pesée</string>
+    <string name="scan_ticket_gallery">Choisir dans la Galerie</string>
+    <string name="scan_ticket_gallery_desc">Sélectionner une capture d\'écran sur l\'appareil</string>
+    <string name="scan_ticket_pdf">Sélectionner un PDF / Fichiers</string>
+    <string name="scan_ticket_pdf_desc">Ouvrir un PDF depuis un e-mail ou gestionnaire</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Axle</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">Total : %,d lbs</string>
+    <string name="label_remaining_weight">Restant : %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">Position Actuelle du Trou</string>
+    <string name="label_current_hole">Trou Actuel</string>
+    <string name="spinner_option_6">Trous tous les 6\" (Standard)</string>
+    <string name="spinner_option_4">Trous tous les 4\"</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">Calculer et Optimiser</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">Position Parfaite</string>
+    <string name="rec_subtitle_perfect">Les poids sont équilibrés et conformes.</string>
+    <string name="rec_title_overweight">Surcharge !</string>
+    <string name="rec_subtitle_overweight">Vous êtes actuellement en surcharge.</string>
+    <string name="rec_title_caution">Attention</string>
+    <string name="rec_subtitle_caution">Proche des limites légales.</string>
+    <string name="rec_title_hole">Trou %d</string>
+    <string name="rec_subtitle_move">Déplacer de %1$d trous %2$s</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">Avant</string>
+    <string name="rec_label_after">Après</string>
+    <string name="rec_manual_hint">Utilisez + et − pour ajuster manuellement</string>
+    <string name="btn_reset_shift">↺ Réinitialiser (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ Sellette (5th Wheel) : Glisser de %d trous vers l\'arrière</string>
+    <string name="rec_fifth_wheel_subtitle">Déplace ~300 lbs/trou de la direction vers les essieux moteurs</string>
+    <string name="warning_steer_overload_drives">Attention : Déplacer le poids de la direction surchargera les moteurs (> 34 000 lbs). Redistribution requise.</string>
+    <string name="label_hole_spacing">Espacement des Trous</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">Langue</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">ENREGISTRER</string>
+
+    <string name="lorem_ipsum">Le calculateur de poids par essieu vous aide à optimiser la répartition de charge.</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">Avertissement</string>
+    <string name="disclaimer_content">À titre indicatif uniquement. Les calculs sont des estimations basées sur des valeurs standard de poids par trou. Les poids réels peuvent varier. Cette application ne remplace pas une balance certifiée. Le chauffeur assume l\'entière responsabilité de la conformité aux réglementations DOT et aux limites de poids.</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">L\'autorisation de l\'appareil photo est requise pour scanner les tickets papier.</string>
+    <string name="error_create_image_file">Impossible de créer le fichier image.</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">Vous avez gagné du temps à la pesée ?</string>
+    <string name="rate_banner_subtitle">Donnez votre avis sur Google Play</string>
+    <string name="rate_banner_button">Noter en 1 geste</string>
+    <string name="btn_close">Fermer</string>
+
+</resources>

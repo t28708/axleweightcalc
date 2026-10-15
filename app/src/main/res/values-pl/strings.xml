@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Kalkulator Nacisku Osi</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="first_fragment_label">Pierwszy Fragment</string>
+    <string name="second_fragment_label">Drugi Fragment</string>
+    <string name="next">Dalej</string>
+    <string name="previous">Wstecz</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">Odblokuj Premium</string>
+    <string name="premium_subtitle">(Tylko $3.99/mies. - to tylko $0.13/dzień)</string>
+    <string name="premium_button">Zdobądź Teraz ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">Wybierz Źródło</string>
+    <string name="scan_ticket_take_photo">Zrób Zdjęcie / Aparat</string>
+    <string name="scan_ticket_take_photo_desc">Sfotografuj papierowy kwit wagowy</string>
+    <string name="scan_ticket_gallery">Wybierz z Galerii</string>
+    <string name="scan_ticket_gallery_desc">Wybierz zapisany zrzut ekranu z urządzenia</string>
+    <string name="scan_ticket_pdf">Wybierz PDF / Pliki</string>
+    <string name="scan_ticket_pdf_desc">Otwórz plik PDF z poczty lub menedżera plików</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Axle</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">Łącznie: %,d lbs</string>
+    <string name="label_remaining_weight">Pozostało: %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">Aktualna Pozycja Otworu</string>
+    <string name="label_current_hole">Aktualny Otwór</string>
+    <string name="spinner_option_6">Otwory co 6\" (Standard)</string>
+    <string name="spinner_option_4">Otwory co 4\"</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">Oblicz i Zoptymalizuj</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">Idealna Pozycja</string>
+    <string name="rec_subtitle_perfect">Masy są zrównoważone i zgodne z przepisami.</string>
+    <string name="rec_title_overweight">Przeciążenie!</string>
+    <string name="rec_subtitle_overweight">Aktualnie masz przekroczony dopuszczalny nacisk osi.</string>
+    <string name="rec_title_caution">Uwaga</string>
+    <string name="rec_subtitle_caution">Zbliżasz się do limitu prawnego.</string>
+    <string name="rec_title_hole">Otwór %d</string>
+    <string name="rec_subtitle_move">Przesuń o %1$d otworów %2$s</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">Przed</string>
+    <string name="rec_label_after">Po</string>
+    <string name="label_hole_spacing">Rozstaw Otworów</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">Język (Language)</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">ZAPISZ</string>
+
+    <string name="lorem_ipsum">Kalkulator nacisku osi pomaga zoptymalizować rozkład ładunku.</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">Zastrzeżenie prawne</string>
+    <string name="disclaimer_content">Wyłącznie do celów informacyjnych. Obliczenia są szacunkowe i oparte na standardowych wartościach masy na otwór. Rzeczywiste masy mogą się różnić. Ta aplikacja nie zastępuje certyfikowanej wagi. Kierowca ponosi pełną odpowiedzialność za zgodność z przepisami DOT i limitami wagowymi.</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">Do skanowania papierowych kwitów wymagane jest uprawnienie do aparatu.</string>
+    <string name="error_create_image_file">Nie udało się utworzyć pliku obrazu.</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">Zaoszczędziłeś czas na wadze?</string>
+    <string name="rate_banner_subtitle">Zostaw opinię w Google Play</string>
+    <string name="rate_banner_button">Oceń w 1 kliknięcie</string>
+    <string name="btn_close">Ukryj</string>
+    <string name="rec_manual_hint">Użyj + i − do ręcznej regulacji</string>
+    <string name="btn_reset_shift">↺ Resetuj (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ Siodło (5th Wheel): Przesuń o %d otworów w tył</string>
+    <string name="rec_fifth_wheel_subtitle">Przenosi ~300 lbs/otwór ze Steer na Drive</string>
+    <string name="warning_steer_overload_drives">Ostrzeżenie: Przeniesienie masy ze Steer przeciąży osie Drive (> 34 000 lbs). Wymagane przeładowanie.</string>
+
+</resources>

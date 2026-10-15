@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Axle Weight Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">Unlock Premium</string>
+    <string name="premium_subtitle">(Just $3.99/month - that\'s only $0.13/day)</string>
+    <string name="premium_button">Get Now ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">Choose Source</string>
+    <string name="scan_ticket_take_photo">Take Photo / Camera</string>
+    <string name="scan_ticket_take_photo_desc">Photo a paper ticket from the scale</string>
+    <string name="scan_ticket_gallery">Choose from Gallery</string>
+    <string name="scan_ticket_gallery_desc">Select a screenshot saved on your device</string>
+    <string name="scan_ticket_pdf">Select PDF / Files</string>
+    <string name="scan_ticket_pdf_desc">Open a PDF from email or file manager</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Weight</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">Gross: %,d lbs</string>
+    <string name="label_remaining_weight">Remaining: %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">Current Trailer Hole Position</string>
+    <string name="label_current_hole">Current Hole</string>
+    <string name="spinner_option_6">Holes Every 6\" (Standard)</string>
+    <string name="spinner_option_4">Holes Every 4\"</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">Calculate &amp; Optimize</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">Perfect Position</string>
+    <string name="rec_subtitle_perfect">Weights are balanced and legal.</string>
+    <string name="rec_title_overweight">Overweight!</string>
+    <string name="rec_subtitle_overweight">You are currently overweight.</string>
+    <string name="rec_title_caution">Caution</string>
+    <string name="rec_subtitle_caution">Approaching legal limits.</string>
+    <string name="rec_title_hole">Hole %d</string>
+    <string name="rec_subtitle_move">Move %1$d holes %2$s</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">Before</string>
+    <string name="rec_label_after">After</string>
+    <string name="rec_manual_hint">Use + and − to manually adjust</string>
+    <string name="btn_reset_shift">↺ Reset (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ 5th Wheel: Slide %d holes back (away from cab)</string>
+    <string name="rec_fifth_wheel_subtitle">Shifts ~300 lbs/hole from Steer to Drive</string>
+    <string name="warning_steer_overload_drives">Warning: Moving weight from Steer will overload Drives (> 34,000 lbs). Load needs redistribution.</string>
+    <string name="label_hole_spacing">Hole Spacing</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">SAVE</string>
+
+    <string name="lorem_ipsum">Axle Weight Calculator helps you optimize your load distribution.</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="disclaimer_content">For Reference Only. Calculations are estimates based on standard weight-per-hole values. Actual weights may vary. This app is not a substitute for a certified scale. The driver assumes full responsibility for compliance with DOT regulations and weight limits.</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">Camera permission is required to scan paper tickets.</string>
+    <string name="error_create_image_file">Could not create image file.</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">Saved time at the scale?</string>
+    <string name="rate_banner_subtitle">Drop a quick rating on Google Play</string>
+    <string name="rate_banner_button">Rate in 1 Tap</string>
+    <string name="btn_close">Close</string>
+
+</resources>

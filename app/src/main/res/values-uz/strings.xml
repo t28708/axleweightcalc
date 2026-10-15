@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Oʻq Ogʻirligi Kalkulyatori</string>
+    <string name="action_settings">Sozlamalar</string>
+    <string name="first_fragment_label">Birinchi Fragment</string>
+    <string name="second_fragment_label">Ikkinchi Fragment</string>
+    <string name="next">Keyingisi</string>
+    <string name="previous">Oldingisi</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">Premium-ni Ochish</string>
+    <string name="premium_subtitle">(Oyiga atigi $3.99 - bu kuniga $0.13)</string>
+    <string name="premium_button">Hoziroq Olish ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">Manbani Tanlang</string>
+    <string name="scan_ticket_take_photo">Rasmga Olish / Kamera</string>
+    <string name="scan_ticket_take_photo_desc">Tarozidan olingan qogʻoz chekni rasmga oling</string>
+    <string name="scan_ticket_gallery">Galereyadan Tanlash</string>
+    <string name="scan_ticket_gallery_desc">Qurilmadagi skrinshotni tanlang</string>
+    <string name="scan_ticket_pdf">PDF / Fayllarni Tanlash</string>
+    <string name="scan_ticket_pdf_desc">Email yoki fayl menejeridan PDF-ni oching</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Axle</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">Jami: %,d lbs</string>
+    <string name="label_remaining_weight">Qoldiq: %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">Hozirgi Teshik Holati</string>
+    <string name="label_current_hole">Hozirgi Teshik</string>
+    <string name="spinner_option_6">Har 6\" da teshik (Standart)</string>
+    <string name="spinner_option_4">Har 4\" da teshik</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">Hisoblash va Optimallashtirish</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">Ideal Holat</string>
+    <string name="rec_subtitle_perfect">Ogʻirliklar muvozanatda va qonuniy meʼyorda.</string>
+    <string name="rec_title_overweight">Ortiqcha Yuk!</string>
+    <string name="rec_subtitle_overweight">Hozirda oʻqlarda ortiqcha yuk bor.</string>
+    <string name="rec_title_caution">Diqqat</string>
+    <string name="rec_subtitle_caution">Qonuniy chegaraga yaqin.</string>
+    <string name="rec_title_hole">Teshik %d</string>
+    <string name="rec_subtitle_move">%1$d teshikka %2$s siljiting</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">Oldin</string>
+    <string name="rec_label_after">Keyin</string>
+    <string name="label_hole_spacing">Teshiklar Oraligʻi</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">Til (Language)</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">SAQLASH</string>
+
+    <string name="lorem_ipsum">Oʻq ogʻirligi kalkulyatori yukingizni toʻgʻri taqsimlashga yordam beradi.</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">Ogohlantirish (Disclaimer)</string>
+    <string name="disclaimer_content">Faqat maʼlumot uchun. Hisob-kitoblar har bir teshik uchun standart ogʻirlik qiymatlariga asoslangan taxmindir. Haqiqiy ogʻirlik farq qilishi mumkin. Ushbu ilova sertifikatlangan tarozi oʻrnini bosa olmaydi. Haydovchi DOT qoidalari va ogʻirlik chegaralariga rioya qilish uchun toʻliq javobgardir.</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">Qogʻoz cheklarni skanerlash uchun kamera ruxsati talab qilinadi.</string>
+    <string name="error_create_image_file">Rasm faylini yaratib boʻlmadi.</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">Tarozida vaqtingiz tejaldimi?</string>
+    <string name="rate_banner_subtitle">Google Play\'da fikr bildiring</string>
+    <string name="rate_banner_button">1 bosishda baholash</string>
+    <string name="btn_close">Yopish</string>
+    <string name="rec_manual_hint">Qo\'lda sozlash uchun + va − dan foydalaning</string>
+    <string name="btn_reset_shift">↺ Qayta oʻrnatish (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ 5-gʻildirak (egarcha): %d teshik orqaga suring</string>
+    <string name="rec_fifth_wheel_subtitle">Steerdan Drivelarga har teshik uchun ~300 lbs oʻtkazadi</string>
+    <string name="warning_steer_overload_drives">Ogohlantirish: Steerdan ogʻirlikni koʻchirish Drive oʻqlarini ortiqcha yuklaydi (> 34,000 lbs).</string>
+
+</resources>

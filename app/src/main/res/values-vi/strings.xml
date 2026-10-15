@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Máy Tính Tải Trọng Trục</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="first_fragment_label">Fragment Thứ Nhất</string>
+    <string name="second_fragment_label">Fragment Thứ Hai</string>
+    <string name="next">Tiếp theo</string>
+    <string name="previous">Quay lại</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">Mở Khóa Premium</string>
+    <string name="premium_subtitle">(Chỉ $3.99/tháng - tức là $0.13/ngày)</string>
+    <string name="premium_button">Nhận Ngay ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">Chọn Nguồn</string>
+    <string name="scan_ticket_take_photo">Chụp Ảnh / Camera</string>
+    <string name="scan_ticket_take_photo_desc">Chụp ảnh phiếu cân giấy từ bàn cân</string>
+    <string name="scan_ticket_gallery">Chọn Từ Thư Viện</string>
+    <string name="scan_ticket_gallery_desc">Chọn ảnh chụp màn hình lưu trên thiết bị</string>
+    <string name="scan_ticket_pdf">Chọn PDF / Tệp Tin</string>
+    <string name="scan_ticket_pdf_desc">Mở tệp PDF từ email hoặc trình quản lý tệp</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Axle</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">Tổng: %,d lbs</string>
+    <string name="label_remaining_weight">Còn lại: %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">Vị Trí Lỗ Hiện Tại</string>
+    <string name="label_current_hole">Lỗ Hiện Tại</string>
+    <string name="spinner_option_6">Lỗ cách mỗi 6\" (Tiêu chuẩn)</string>
+    <string name="spinner_option_4">Lỗ cách mỗi 4\"</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">Tính Toán &amp; Tối Ưu Hóa</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">Vị Trí Hoàn Hảo</string>
+    <string name="rec_subtitle_perfect">Trọng lượng đã cân bằng và hợp pháp.</string>
+    <string name="rec_title_overweight">Quá Tải!</string>
+    <string name="rec_subtitle_overweight">Hiện tại bạn đang bị quá tải trục.</string>
+    <string name="rec_title_caution">Cảnh Báo</string>
+    <string name="rec_subtitle_caution">Gần chạm giới hạn pháp lý.</string>
+    <string name="rec_title_hole">Lỗ %d</string>
+    <string name="rec_subtitle_move">Di chuyển %1$d lỗ %2$s</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">Trước</string>
+    <string name="rec_label_after">Sau</string>
+    <string name="label_hole_spacing">Khoảng Cách Lỗ</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">Ngôn Ngữ (Language)</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">LƯU (SAVE)</string>
+
+    <string name="lorem_ipsum">Máy tính tải trọng trục giúp bạn tối ưu hóa việc phân bổ tải trọng.</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">Tuyên Bố Miễn Trừ Trách Nhiệm</string>
+    <string name="disclaimer_content">Chỉ mang tính chất tham khảo. Các phép tính là ước tính dựa trên giá trị trọng lượng tiêu chuẩn trên mỗi lỗ. Trọng lượng thực tế có thể thay đổi. Ứng dụng này không thay thế cho bàn cân được chứng nhận. Tài xế chịu hoàn toàn trách nhiệm về việc tuân thủ các quy định của DOT và giới hạn trọng lượng.</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">Cần có quyền truy cập camera để quét phiếu cân giấy.</string>
+    <string name="error_create_image_file">Không thể tạo tệp hình ảnh.</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">Đã tiết kiệm thời gian tại bàn cân?</string>
+    <string name="rate_banner_subtitle">Để lại đánh giá trên Google Play</string>
+    <string name="rate_banner_button">Đánh giá bằng 1 chạm</string>
+    <string name="btn_close">Đóng</string>
+    <string name="rec_manual_hint">Sử dụng + và − để điều chỉnh thủ công</string>
+    <string name="btn_reset_shift">↺ Đặt lại (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ Mâm xoay (5th Wheel): Trượt %d lỗ về phía sau</string>
+    <string name="rec_fifth_wheel_subtitle">Chuyển ~300 lbs/lỗ từ Steer sang Drive</string>
+    <string name="warning_steer_overload_drives">Cảnh báo: Chuyển tải từ Steer sẽ làm quá tải Drive (> 34,000 lbs). Cần sắp xếp lại hàng.</string>
+
+</resources>

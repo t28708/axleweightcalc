@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">ਐਕਸਲ ਵਜ਼ਨ ਕੈਲਕੁਲੇਟਰ</string>
+    <string name="action_settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="first_fragment_label">ਪਹਿਲਾ ਫ੍ਰੈਗਮੈਂਟ</string>
+    <string name="second_fragment_label">ਦੂਜਾ ਫ੍ਰੈਗਮੈਂਟ</string>
+    <string name="next">ਅੱਗੇ</string>
+    <string name="previous">ਪਿੱਛੇ</string>
+
+    <!-- Premium Banner -->
+    <string name="premium_title">ਪ੍ਰੀਮੀਅਮ ਅਨਲੌਕ ਕਰੋ</string>
+    <string name="premium_subtitle">(ਸਿਰਫ਼ $3.99/ਮਹੀਨਾ - ਯਾਨੀ $0.13/ਦਿਨ)</string>
+    <string name="premium_button">ਹੁਣੇ ਪ੍ਰਾਪਤ ਕਰੋ ></string>
+
+    <!-- Scale Modes -->
+    <string name="label_full_truck_scale">Gross</string>
+    <string name="label_axle_scale">Axle</string>
+    <string name="label_scan_ticket">SCAN SCALE TICKET (AUTO FILL)</string>
+
+    <!-- Scan Ticket Bottom Sheet -->
+    <string name="scan_ticket_sheet_title">ਸਰੋਤ ਚੁਣੋ</string>
+    <string name="scan_ticket_take_photo">ਫੋਟੋ ਲਵੋ / ਕੈਮਰਾ</string>
+    <string name="scan_ticket_take_photo_desc">ਸਕੇਲ ਤੋਂ ਕਾਗਜ਼ੀ ਟਿਕਟ ਦੀ ਫੋਟੋ ਲਵੋ</string>
+    <string name="scan_ticket_gallery">ਗੈਲਰੀ ਵਿੱਚੋਂ ਚੁਣੋ</string>
+    <string name="scan_ticket_gallery_desc">ਡਿਵਾਈਸ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਸਕ੍ਰੀਨਸ਼ਾਟ ਚੁਣੋ</string>
+    <string name="scan_ticket_pdf">PDF / ਫ਼ਾਈਲਾਂ ਚੁਣੋ</string>
+    <string name="scan_ticket_pdf_desc">ਈਮੇਲ ਜਾਂ ਫ਼ਾਈਲ ਮੈਨੇਜਰ ਤੋਂ PDF ਖੋਲ੍ਹੋ</string>
+
+    <!-- Weight Inputs -->
+    <string name="label_steer_weight">Steer Axle</string>
+    <string name="label_steer_drive">Steer + Drive</string>
+    <string name="label_total_weight">Total Weight</string>
+    <string name="label_drive_axle">Drive Axle</string>
+    <string name="label_trailer_axle">Trailer Axle</string>
+    <string name="unit_lbs">lbs</string>
+
+    <!-- Totals -->
+    <string name="label_gross_weight">ਕੁੱਲ: %,d lbs</string>
+    <string name="label_remaining_weight">ਬਾਕੀ: %,d</string>
+
+    <!-- Slider -->
+    <string name="label_hole_position">ਮੌਜੂਦਾ ਹੋਲ ਸਥਿਤੀ</string>
+    <string name="label_current_hole">ਮੌਜੂਦਾ ਹੋਲ</string>
+    <string name="spinner_option_6">ਹਰ 6\" \'ਤੇ ਹੋਲ (ਸਟੈਂਡਰਡ)</string>
+    <string name="spinner_option_4">ਹਰ 4\" \'ਤੇ ਹੋਲ</string>
+
+    <!-- Calc Button -->
+    <string name="btn_calculate">ਹਿਸਾਬ ਲਗਾਓ ਅਤੇ ਅਨੁਕੂਲਿਤ ਕਰੋ</string>
+
+    <!-- Recommendation Card -->
+    <string name="rec_title_perfect">ਬਿਲਕੁਲ ਸਹੀ ਸਥਿਤੀ</string>
+    <string name="rec_subtitle_perfect">ਵਜ਼ਨ ਸੰਤੁਲਿਤ ਅਤੇ ਕਾਨੂੰਨੀ ਦਾਇਰੇ ਵਿੱਚ ਹੈ।</string>
+    <string name="rec_title_overweight">ਓਵਰਵੇਟ!</string>
+    <string name="rec_subtitle_overweight">ਤੁਹਾਡਾ ਵਜ਼ਨ ਨਿਰਧਾਰਤ ਸੀਮਾ ਤੋਂ ਵੱਧ ਹੈ।</string>
+    <string name="rec_title_caution">ਸਾਵਧਾਨੀ</string>
+    <string name="rec_subtitle_caution">ਕਾਨੂੰਨੀ ਸੀਮਾ ਦੇ ਨੇੜੇ ਹੈ।</string>
+    <string name="rec_title_hole">ਹੋਲ %d</string>
+    <string name="rec_subtitle_move">%1$d ਹੋਲ %2$s ਹਿਲਾਓ</string>
+    <string name="rec_move_forward">(+)</string>
+    <string name="rec_move_backward">(-)</string>
+    <string name="rec_label_before">ਪਹਿਲਾਂ</string>
+    <string name="rec_label_after">ਬਾਅਦ ਵਿੱਚ</string>
+    <string name="label_hole_spacing">ਹੋਲ ਦੀ ਦੂਰੀ</string>
+    
+    <!-- First Launch -->
+    <string name="dialog_language_title">ਭਾਸ਼ਾ (Language)</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_punjabi">ਪੰਜਾਬੀ (Punjabi)</string>
+    <string name="lang_ukrainian">Українська</string>
+    <string name="lang_uzbek">Oʻzbekcha</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_vietnamese">Tiếng Việt</string>
+    <string name="lang_tagalog">Tagalog (Filipino)</string>
+    <string name="btn_save">ਸੰਭਾਲੋ (SAVE)</string>
+
+    <string name="lorem_ipsum">ਐਕਸਲ ਵਜ਼ਨ ਕੈਲਕੁਲੇਟਰ ਤੁਹਾਡੇ ਭਾਰ ਦੀ ਸਹੀ ਵੰਡ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">ਬੇਦਾਅਵਾ (Disclaimer)</string>
+    <string name="disclaimer_content">ਸਿਰਫ਼ ਜਾਣਕਾਰੀ ਲਈ। ਹਿਸਾਬ ਸਟੈਂਡਰਡ ਪ੍ਰਤੀ-ਹੋਲ ਵਜ਼ਨ ਮੁੱਲਾਂ \'ਤੇ ਆਧਾਰਿਤ ਅੰਦਾਜ਼ਾ ਹੈ। ਅਸਲ ਵਜ਼ਨ ਵੱਖਰਾ ਹੋ ਸਕਦਾ ਹੈ। ਇਹ ਐਪ ਪ੍ਰਮਾਣਿਤ ਸਕੇਲ ਦਾ ਬਦਲ ਨਹੀਂ ਹੈ। ਡਰਾਈਵਰ DOT ਨਿਯਮਾਂ ਅਤੇ ਵਜ਼ਨ ਸੀਮਾਵਾਂ ਦੀ ਪਾਲਣਾ ਲਈ ਖ਼ੁਦ ਜ਼ਿੰਮੇਵਾਰ ਹੈ।</string>
+
+    <!-- Scan Ticket Messages -->
+    <string name="camera_permission_required">ਕਾਗਜ਼ੀ ਟਿਕਟਾਂ ਸਕੈਨ ਕਰਨ ਲਈ ਕੈਮਰੇ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="error_create_image_file">ਚਿੱਤਰ ਫ਼ਾਈਲ ਨਹੀਂ ਬਣਾਈ ਜਾ ਸਕੀ।</string>
+
+    <!-- Rate App Inline Banner -->
+    <string name="rate_banner_title">ਕੀ ਸਕੇਲ \'ਤੇ ਸਮਾਂ ਬਚਿਆ?</string>
+    <string name="rate_banner_subtitle">Google Play \'ਤੇ ਰਿਵਿਊ ਦਿਓ</string>
+    <string name="rate_banner_button">1 ਕਲਿੱਕ ਵਿੱਚ ਰੇਟ ਕਰੋ</string>
+    <string name="btn_close">ਬੰਦ ਕਰੋ</string>
+    <string name="rec_manual_hint">ਮੈਨੂਅਲ ਐਡਜਸਟ ਕਰਨ ਲਈ + ਅਤੇ − ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="btn_reset_shift">↺ ਰੀਸੈੱਟ (0)</string>
+    <string name="rec_fifth_wheel_title">⚙️ 5ਵਾਂ ਵ੍ਹੀਲ: %d ਹੋਲ ਪਿੱਛੇ ਵੱਲ ਸਲਾਈਡ ਕਰੋ</string>
+    <string name="rec_fifth_wheel_subtitle">ਸਟੀਅਰ ਤੋਂ ਡਰਾਈਵ ਵੱਲ ਪ੍ਰਤੀ ਹੋਲ ~300 lbs ਤਬਦੀਲ ਕਰਦਾ ਹੈ</string>
+    <string name="warning_steer_overload_drives">ਚੇਤਾਵਨੀ: ਸਟੀਅਰ ਤੋਂ ਭਾਰ ਬਦਲਣ ਨਾਲ ਡਰਾਈਵ ਓਵਰਲੋਡ ਹੋ ਜਾਵੇਗੀ (> 34,000 lbs)। ਭਾਰ ਦੁਬਾਰਾ ਵੰਡਣ ਦੀ ਲੋੜ ਹੈ।</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- For camera photos saved to external cache -->
+    <external-cache-path
+        name="camera_photos"
+        path="." />
+    <!-- For camera photos saved to internal cache -->
+    <cache-path
+        name="camera_photos_internal"
+        path="." />
+</paths>
